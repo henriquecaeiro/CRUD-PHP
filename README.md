@@ -4,7 +4,7 @@
 
 ## Sobre o projeto.
 
-Projeto básico de CRUD em PHP e MySql, para demonstrar os conhecimentos básicos e fundamentais na hora de construir basicamente qualquer aplicação que envolva as mesmas. 
+Projeto básico de CRUD em PHP e MySql, para demonstrar os conhecimentos básicos e fundamentais na hora de construir basicamente qualquer aplicação que envolvam as mesmas. 
 E também com o uso de Bootstrap para agilizar o processo de estilzação da página.
 
 
